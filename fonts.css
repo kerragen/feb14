@@ -1,0 +1,11 @@
+
+@font-face {
+	font-family: 'Minaeff Ect'; 
+	src: url(fonts/Minaeff\ Ect-Regular.ttf); 
+}
+ 
+/* Жирный */
+@font-face {
+	font-family: 'Minaeff Ect bold'; 
+	src: url(fonts/Minaeff\ Ect-Bold.ttf); 
+}

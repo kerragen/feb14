@@ -9,8 +9,8 @@ function swiperInit(swiperMedia) {
       },
       spaceBetween: 16,
       slidesPerView: 'auto',
-      slidesOffsetAfter: 16,
-      slidesOffsetBefore: 16,
+      
+      
     }); 
   } 
 }
