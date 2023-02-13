@@ -55,7 +55,7 @@ body {
     }
 
     .photos{
-        padding:30px 0px 30px 0px;
+        padding:30px 0px 15px 0px;
     }
 
     
@@ -69,6 +69,13 @@ body {
         max-width:100%;
         border: 1px solid #1f1013;
         box-shadow: 30px solid black;
+    }
+
+    .music{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom:50px;
     }
     #heart {
         
@@ -112,6 +119,10 @@ body {
         align-items: center;
         
     }
+
+    
+    
+    
 
     
     
